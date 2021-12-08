@@ -1,0 +1,2 @@
+rootProject.name = "SpinnerActivity"
+include ':app'
